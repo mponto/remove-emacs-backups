@@ -1,0 +1,3 @@
+# remove-emacs-backups
+
+Just removes all the back up files recursively...
