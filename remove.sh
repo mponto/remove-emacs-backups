@@ -11,3 +11,9 @@ do
     echo ${FILE}
     rm ${FILE}
 done
+
+find . -name "*.bak" | while read FILE
+do
+    echo ${FILE}
+    rm ${FILE}
+done
