@@ -17,3 +17,5 @@ do
     echo ${FILE}
     rm ${FILE}
 done
+
+rm ./remove.sh # 自分を消して完了
